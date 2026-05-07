@@ -193,16 +193,6 @@ Health endpoint: `GET /api/v1/health` — plug into uptime monitors.
 
 ---
 
-## Loom Demo Script
-
-1. **Scenario 1 (fintech-backend)** — show brief parsing, recruiter score breakdown, and LangGraph node trace
-2. **Scenario 5 (ops-fractional)** — highlight ATS bottleneck panel and embedded operator value
-3. **Outreach tabs** — open email + SMS for the top recruiter to show personalized activation
-4. **Pipeline board** — walk through stage counts, bottleneck badge, and next-action recommendation
-5. **Custom brief** — type a novel brief to show the system handles freeform input gracefully
-
----
-
 ## Docs
 
 - [`docs/product-spec.md`](docs/product-spec.md) — user stories, flows, functional + non-functional requirements, edge cases, success criteria
